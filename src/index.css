@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+body{
+  background-color: rgb(220, 221, 225);
+  position: relative;
+}
+#app {
+  height: 90vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+footer{
+  color: black;
+  text-align: center;
+}
+footer a{
+  color: black;
+  font-weight: bold;
+}
